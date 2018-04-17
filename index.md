@@ -5,6 +5,8 @@
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
+* [Deployment](#Deployment)
+
 
 # About 
 
@@ -88,6 +90,14 @@ Milestone 2 consisted of two issues, and progress was managed via the [Grub 'n' 
 Each issue was implemented in its own branch, and merged into master when completed:
 
 ![](images/m2-branch-graph.png)
+
+# Deployment
+Final look at [Grub N Go](http://grubngo.meteorapp.com/) page
+
+
+
+
+
 
 
 
