@@ -65,31 +65,28 @@ The goal of Milestone 1 was to create the functional requirements for our applic
 Mockups for the following four pages were developed and then implemented during M1:
 ### 1. Landing
 
-Mockup
-<img width="200px" src="images/Landing.PNG"/>
+Mockup  
+![](images/Landing.PNG)  
 
-Actual Landing
-<img width="200px" src="images/landing.png"/>
+Actual Landing  
+![](images/landing.png)
 
 ### 2. Admin Homepage
 
-Mockup
-<img width="200px" src="images/AdminHP.PNG"/>
-
+Mockup  
+![](images/AdminHP.PNG)  
 Actual Admin Homepage
 
 ### 3. Vendor Homepage
 
-Mockup
-<img width="200px" src="images/VendorHP.PNG"/>
-
+Mockup  
+![](images/VendorHP.PNG)  
 Actual Vendor Homepage
 
 ### 4. User Homepage
 
-Mockup
-<img width="200px" src="images/UserHomePage.PNG"/>
-
+Mockup  
+![](images/UserHomePage.PNG)  
 Actual User Homepage
 
 
