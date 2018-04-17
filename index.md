@@ -62,9 +62,36 @@ This milestone started on April 2nd, 2018 and ended on April 12th, 2018.
 
 The goal of Milestone 1 was to create the functional requirements for our application which includes: having our system deployed to Galaxy, have a landing page (with a login) and mockups of at least four other pages. Additionally there are software engineering requirements that includes using GitHub issues and a GitHub project called "M1" and practicing Issue Driven Project Management strategies. Lastly, there are home page requirements for our project's github home page. This includes (but not limited to): a link to the Github organization of this project, up-to-date screenshots, link to the running deployment of our system on Galaxy, link to the M1 project page and a link to the M2 project page.
 
-Mockups for the following four pages were implemented during M1:
+Mockups for the following four pages were developed and then implemented during M1:
+### 1. Landing
 
-<img width="200px" src="images/vendor.png"/>
+Mockup
+<img width="200px" src="images/Landing.PNG"/>
+
+Actual Landing
+<img width="200px" src="images/landing.png"/>
+
+### 2. Admin Homepage
+
+Mockup
+<img width="200px" src="images/AdminHP.PNG"/>
+
+Actual Admin Homepage
+
+### 3. Vendor Homepage
+
+Mockup
+<img width="200px" src="images/VendorHP.PNG"/>
+
+Actual Vendor Homepage
+
+### 4. User Homepage
+
+Mockup
+<img width="200px" src="images/UserHomePage.PNG"/>
+
+Actual User Homepage
+
 
 Milestone 1 was implemented as [Grub 'n' Go GitHub Milestone M1](https://github.com/grubngo/GrubNGo/projects/1):
 
@@ -90,9 +117,8 @@ Each issue was implemented in its own branch, and merged into master when comple
 Final look at [Grub N Go](http://grubngo.meteorapp.com/) page
 
 # Meet The Team 
-
+- Brian Hoole
 - Chaster Mateo
-- Brian Hoole 
 - Yubi Peterson 
 - Victoria Soto
 
