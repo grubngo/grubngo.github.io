@@ -65,29 +65,32 @@ The goal of Milestone 1 was to create the functional requirements for our applic
 Mockups for the following four pages were developed and then implemented during M1:
 ### 1. Landing
 
-Mockup  
+#### Mockup  
 ![](images/Landing.PNG)  
 
-Actual Landing  
+#### Actual Landing  
 ![](images/landing.png)
 
 ### 2. Admin Homepage
 
-Mockup  
+#### Mockup  
 ![](images/AdminHP.PNG)  
-Actual Admin Homepage
+
+#### Actual Admin Homepage
 
 ### 3. Vendor Homepage
 
-Mockup  
+#### Mockup  
 ![](images/VendorHP.PNG)  
-Actual Vendor Homepage
+
+#### Actual Vendor Homepage
 
 ### 4. User Homepage
 
-Mockup  
+#### Mockup  
 ![](images/UserHomePage.PNG)  
-Actual User Homepage
+
+#### Actual User Homepage
 
 
 Milestone 1 was implemented as [Grub 'n' Go GitHub Milestone M1](https://github.com/grubngo/GrubNGo/projects/1):
