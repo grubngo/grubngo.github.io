@@ -78,8 +78,6 @@ The goal of Milestone 2 was to significantly improve the functionality and quali
 
 Additionally, we had to find at least 5 UH community members to test our application and give feedback and update our organization's GitHub page to document the current version of our system.
 
-Milestone 2 was implemented as [Grub 'n' Go GitHub Milestone M2](https://github.com/bowfolios/bowfolios/milestone/2):
-
 ![](images/m2-milestone.png)
 
 
