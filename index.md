@@ -1,7 +1,7 @@
 <div id="banner">
    <span id="logo"></span>
 
-    <a href="https://github.com/grubngo/grubngo.github.io" class="button fork"><strong>View On GitHub</strong></a>
+    <a href="https://github.com/grubngo/grubngo" class="button fork"><strong>View On GitHub</strong></a>
         
  </div
 
