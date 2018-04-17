@@ -3,7 +3,7 @@
 
     <a href="https://github.com/grubngo/grubngo" class="button fork"><strong>View On GitHub</strong></a>
         
- </div
+ </div>
 
 # Table of contents
 
