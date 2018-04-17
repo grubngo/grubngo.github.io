@@ -1,7 +1,6 @@
-<div id="banner">
+<div id="banner" align="right">
    <span id="logo"></span>
-
-    <a href="https://github.com/grubngo/grubngo" class="button" align="right"><strong>View On GitHub</strong></a>
+    <a href="https://github.com/grubngo/grubngo" class="button"><strong>View On GitHub</strong></a>
     <a href="http://grubngo.meteorapp.com/#/" class="button"><strong>Link to App</strong></a>
         
  </div>
