@@ -32,7 +32,7 @@ Grub 'n' Go also provides a filter page, available to those who can login to the
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, [download a copy of GrubNGo](https://github.com/internationalhawaiioccupiersprogram/GrubNGo/archive/master.zip), or clone it using git.
+Second, [download a copy of GrubNGo](https://github.com/grubngo/GrubNGo/archive/master.zip), or clone it using git.
   
 Third, cd into the app/ directory and install libraries with:
 
