@@ -60,7 +60,7 @@ Mockups for the following four pages were implemented during M1:
 
 <img width="200px" src="images/vendor.png"/>
 
-Milestone 1 was implemented as [Grub 'n' Go GitHub Milestone M1]((https://github.com/orgs/internationalhawaiioccupiersprogram/projects/1)::
+Milestone 1 was implemented as [Grub 'n' Go GitHub Milestone M1]((https://github.com/grubngo/GrubNGo/projects/1)::
 
 ![](images/m1-milestone.png)
 
@@ -86,7 +86,7 @@ Milestone 2 was implemented as [Grub 'n' Go GitHub Milestone M2](https://github.
 ![](images/m2-milestone.png)
 
 
-Milestone 2 consisted of two issues, and progress was managed via the [Grub 'n' Go GitHub Project M2](https://github.com/bowfolios/bowfolios/projects/2):
+Milestone 2 consisted of two issues, and progress was managed via the [Grub 'n' Go GitHub Project M2](hhttps://github.com/grubngo/GrubNGo/projects/2):
 
 ![](images/m2-project.png)
 
