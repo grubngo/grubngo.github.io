@@ -6,6 +6,7 @@
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
 * [Deployment](#Deployment)
+* [Meet The Team](#Meet The Team)
 
 
 # About 
@@ -94,7 +95,12 @@ Each issue was implemented in its own branch, and merged into master when comple
 # Deployment
 Final look at [Grub N Go](http://grubngo.meteorapp.com/) page
 
+# Meet The Team 
 
+- Chaster Mateo
+- Brian Hoole 
+- Yubi Peterson 
+- Victoria Soto
 
 
 
