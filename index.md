@@ -20,6 +20,7 @@
 
 Grub 'n' Go is a Meteor application allowing users a convenient way to see available dining options/menus on campus. When you come to the site, you are greeted by the following landing page:
 
+![](images/Landin.PNG)
 ![](images/landing.png)
 
 Anyone with a UH account can login to Grub 'n' Go by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
