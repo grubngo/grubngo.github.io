@@ -89,12 +89,27 @@ Mockups for the following four pages were developed and then implemented during 
 
 #### Actual User Homepage
 
-### 5. LogIn
+### 5. Signup
 
 #### Mockup
 ![](images/Signup.PNG)  
 
 #### Actual User Login
+
+### 6. LogIn
+
+#### Mockup
+![](images/Login.PNG)  
+
+#### Actual User Login
+
+### 7. Map
+
+#### Mockup
+![](images/Map.PNG)  
+
+#### Actual User Login
+
 
 
 Milestone 1 was implemented as [Grub 'n' Go GitHub Milestone M1](https://github.com/grubngo/GrubNGo/projects/1):
