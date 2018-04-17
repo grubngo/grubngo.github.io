@@ -64,9 +64,6 @@ Milestone 1 was implemented as [Grub 'n' Go GitHub Milestone M1](https://github.
 
 ![](images/m1-milestone.png)
 
-
-Milestone 1 consisted of five issues, and progress was managed via the [Grub 'n' Go GitHub Project M1](https://github.com/orgs/internationalhawaiioccupiersprogram/projects/1):
-
 ![](images/m1-project.png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
