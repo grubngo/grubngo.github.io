@@ -24,19 +24,15 @@ Grub 'n' Go is a Meteor application allowing users a convenient way to see avail
 
 Anyone with a UH account can login to Grub 'n' Go by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
  
-![](images/bowfolios-cas.png)
  
 Once authenticated, you can create a profile that provides a biographical statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram):
 
-![](images/profile.png)
   
 After creating a profile, you will be listed on the public directory page:
 
-![](images/directory.png)
 
 Grub 'n' Go also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all portfolios with a given interest:
 
-![](images/filter.png)
 
 # Installation
 
@@ -72,13 +68,8 @@ Mockups for the following four pages were implemented during M1:
 
 Milestone 1 was implemented as [Grub 'n' Go GitHub Milestone M1](https://github.com/grubngo/GrubNGo/projects/1):
 
-![](images/m1-milestone.png)
-
-![](images/m1-project.png)
-
 Each issue was implemented in its own branch, and merged into master when completed:
 
-![](images/m1-branch-graph.png)
 
 ## Milestone 2: Data model development 
 
@@ -88,16 +79,12 @@ The goal of Milestone 2 was to significantly improve the functionality and quali
 
 Additionally, we had to find at least 5 UH community members to test our application and give feedback and update our organization's GitHub page to document the current version of our system.
 
-![](images/m2-milestone.png)
-
 
 Milestone 2 consisted of two issues, and progress was managed via the [Grub 'n' Go GitHub Project M2](https://github.com/grubngo/GrubNGo/projects/2):
 
-![](images/m2-project.png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
-![](images/m2-branch-graph.png)
 
 # Deployment
 Final look at [Grub N Go](http://grubngo.meteorapp.com/) page
