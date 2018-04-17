@@ -18,13 +18,9 @@
 
 # About 
 
-Grub 'n' Go is a Meteor application allowing users a convenient way to see available dining options/menus on campus. When you come to the site, you are greeted by the following landing page:
+Grub 'n' Go is a Meteor application allowing users a convenient way to see available dining options/menus on campus. Our main goal is to help students go out and enjoy foods that they want to eat, giving information about vendors and what they sell. 
 
-![](images/Landin.PNG)
-![](images/landing.png)
-
-Anyone with a UH account can login to Grub 'n' Go by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
- 
+Anyone with a UH account can login to Grub 'n' Go by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password.
  
 Once authenticated, you can create a profile that provides a biographical statement and list of interests, plus links to selected social media sites (GitHub, FaceBook, Instagram):
 
@@ -92,6 +88,13 @@ Mockups for the following four pages were developed and then implemented during 
 ![](images/UserHomePage.PNG)  
 
 #### Actual User Homepage
+
+### 5. LogIn
+
+#### Mockup
+![](images/Signup.PNG)  
+
+#### Actual User Login
 
 
 Milestone 1 was implemented as [Grub 'n' Go GitHub Milestone M1](https://github.com/grubngo/GrubNGo/projects/1):
