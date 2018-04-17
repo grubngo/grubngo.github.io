@@ -1,8 +1,8 @@
 <div id="banner">
    <span id="logo"></span>
 
-    <a href="https://github.com/grubngo/grubngo" class="fitted button" align="right"><strong>View On GitHub</strong></a>
-    <a href="http://grubngo.meteorapp.com/#/" class="fitted button"><strong>Link to App</strong></a>
+    <a href="https://github.com/grubngo/grubngo" class="button" align="right"><strong>View On GitHub</strong></a>
+    <a href="http://grubngo.meteorapp.com/#/" class="button"><strong>Link to App</strong></a>
         
  </div>
 
