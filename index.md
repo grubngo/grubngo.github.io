@@ -2,20 +2,7 @@
    <span id="logo"></span>
     <a href="https://github.com/grubngo/grubngo" class="button"><strong>View On GitHub</strong></a>
     <a href="http://grubngo.meteorapp.com/#/" class="button"><strong>Link to App</strong></a>
-        
  </div>
-
-# Table of contents
-
-* [About Grub 'n' Go](#about)
-* [Installation](#installation)
-* [Development history](#development-history)
-  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-  * [Milestone 2: Data model development](#milestone-2-data-model-development)
-* [Deployment](#Deployment)
-* [Meet The Team](#Meet The Team)
-
-
 # About 
 
 Grub 'n' Go is a Meteor application allowing users a convenient way to see available dining options/menus on campus. Our main goal is to help students go out and enjoy foods that they want to eat, giving information about vendors and what they sell. 
