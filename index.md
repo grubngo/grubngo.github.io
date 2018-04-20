@@ -18,25 +18,26 @@ After creating a profile, you will be listed on the public directory page:
 Grub 'n' Go also provides a filter page, available to those who can login to the system with their UH account. The filter page allows you to display all portfolios with a given interest:
 
 
-# Installation
+# Developer Guide
 
-First, [install Meteor](https://www.meteor.com/install).
+##Initialization
+[install Meteor](https://www.meteor.com/install).
 
-Second, [download a copy of GrubNGo](https://github.com/grubngo/GrubNGo/archive/master.zip), or clone it using git.
+[download a copy of GrubNGo](https://github.com/grubngo/GrubNGo/archive/master.zip), or clone it using git.
   
-Third, cd into the app/ directory and install libraries with:
+Open your command terminal, changing your directory path to the /app destination. Install meteor with the following command:
 
 ```
 $ meteor npm install
 ```
 
-Fourth, run the system with:
+After installation completes, enter the following to run the application. 
 
 ```
 $ meteor npm run start
 ```
 
-If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
+Open your internet browser, enter [http://localhost:3000](http://localhost:3000) into the address bar and press enter. Your browser should show the application running locally on your computer. 
 
 # Development History
 
