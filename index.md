@@ -151,13 +151,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 Final look at [Grub N Go](http://grubngo.meteorapp.com/) page
 
 # Meet The Team 
-- Brian Hoole
-- Chaster Mateo
-- Yubi Peterson 
-- Victoria Soto
-
-
-
-
-
-
+- [Brian Hoole](https://brianhoole.github.io)
+- [Chaster Mateo](https://haychaster.github.io)
+- [Yubi Peterson](https://notyubi.github.io) 
+- [Victoria Soto](https://victoriasoto.github.io)
