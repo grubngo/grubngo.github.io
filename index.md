@@ -22,9 +22,9 @@ Grub 'n' Go also provides a filter page, available to those who can login to the
 # Developer Guide
 
 ## Initialization
-[install Meteor](https://www.meteor.com/install).
+[install Meteor](https://www.meteor.com/install) for your specific platform.
 
-[download a copy of GrubNGo](https://github.com/grubngo/GrubNGo/archive/master.zip), or clone it using git.
+[download a copy of GrubNGo](https://github.com/grubngo/GrubNGo/archive/master.zip), or clone it from GitHub with the button above.
   
 Open your command terminal, changing your directory path to the /app destination. Install meteor with the following command:
 
@@ -39,6 +39,8 @@ $ meteor npm run start
 ```
 
 Open your internet browser, enter [http://localhost:3000](http://localhost:3000) into the address bar and press enter. Your browser should show the application running locally on your computer. 
+
+
 
 # Development History
 
