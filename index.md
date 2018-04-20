@@ -53,14 +53,12 @@ Open your command terminal, change your directory path to the GrubNGo/app destin
 
 ```
 $ meteor npm install
-
 ```
 
 After installation completes, enter the following to run the application. 
 
 ```
 $ meteor npm run start
-
 ```
 
 Open your internet browser, enter [http://localhost:3000](http://localhost:3000) into the address bar and press enter. Your browser should show the application running locally on your computer. 
