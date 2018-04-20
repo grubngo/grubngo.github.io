@@ -45,25 +45,25 @@ Once the vendor logs in, they’ll be redirected to their homepage. It’ll disp
 
 # Developer Guide
 
-[install Meteor](https://www.meteor.com/install) for your specific platform.
+[Download](https://www.meteor.com/install) Meteor for your specific platform.
 
-[download a copy of GrubNGo](https://github.com/grubngo/GrubNGo/archive/master.zip), or clone it from GitHub with the button above.
+[Download](https://github.com/grubngo/GrubNGo/archive/master.zip) a copy of GrubNGo, or clone it from GitHub with the button above.
   
-Open your command terminal, changing your directory path to the /app destination. Install meteor with the following command:
+Open your command terminal, change your directory path to the GrubNGo/app destination. Install meteor with the following command:
 
 ```
 $ meteor npm install
+
 ```
 
 After installation completes, enter the following to run the application. 
 
 ```
 $ meteor npm run start
+
 ```
 
 Open your internet browser, enter [http://localhost:3000](http://localhost:3000) into the address bar and press enter. Your browser should show the application running locally on your computer. 
-
-
 
 # Development History
 
