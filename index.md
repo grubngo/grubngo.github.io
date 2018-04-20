@@ -3,6 +3,7 @@
     <a href="https://github.com/grubngo/grubngo" class="button"><strong>View On GitHub</strong></a>
     <a href="http://grubngo.meteorapp.com/#/" class="button"><strong>Link to App</strong></a>
  </div>
+
 # About 
 
 Grub 'n' Go is a Meteor application allowing users a convenient way to see available dining options/menus on campus. Our main goal is to help students go out and enjoy foods that they want to eat, giving information about vendors and what they sell. 
@@ -20,7 +21,7 @@ Grub 'n' Go also provides a filter page, available to those who can login to the
 
 # Developer Guide
 
-##Initialization
+## Initialization
 [install Meteor](https://www.meteor.com/install).
 
 [download a copy of GrubNGo](https://github.com/grubngo/GrubNGo/archive/master.zip), or clone it using git.
