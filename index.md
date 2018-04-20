@@ -45,7 +45,6 @@ Once the vendor logs in, they’ll be redirected to their homepage. It’ll disp
 
 # Developer Guide
 
-## Initialization
 [install Meteor](https://www.meteor.com/install) for your specific platform.
 
 [download a copy of GrubNGo](https://github.com/grubngo/GrubNGo/archive/master.zip), or clone it from GitHub with the button above.
