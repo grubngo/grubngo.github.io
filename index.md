@@ -306,4 +306,4 @@ Final look at [Grub N Go](http://grubngo.meteorapp.com/) page
 - [Brian Hoole](https://brianhoole.github.io)
 - [Chaster Mateo](https://haychaster.github.io)
 - [Yubi Peterson](https://notyubi.github.io) 
-- [Victoria Soto](https://victoriasoto.github.io)
+- [Victoria Soto](https://victoria-soto.github.io)
