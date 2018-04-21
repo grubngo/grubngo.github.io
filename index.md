@@ -2,6 +2,7 @@
    <span id="logo"></span>
     <a href="https://github.com/grubngo/grubngo" class="button"><strong>View On GitHub</strong></a>
     <a href="http://grubngo.meteorapp.com/#/" class="button"><strong>Link to App</strong></a>
+    <img class="ui small right circular floated image" src="../images/GrubNGo_icon.png">
  </div>
 
 # About 
