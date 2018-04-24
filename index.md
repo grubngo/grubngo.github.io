@@ -43,7 +43,7 @@ Along with their email and password, vendors are required to input more informat
 Once the vendor logs in, they’ll be redirected to their homepage. It’ll display a list of their menu items categorized by food/drinks/other with the option to edit. Editing will allow them to add/remove an item from their list and mark an option sold out.
 
 
-## Developer Guide
+# Developer Guide
 
 [Download](https://www.meteor.com/install) Meteor for your specific platform.
 
