@@ -63,8 +63,6 @@ $ meteor npm run start
 
 Open your internet browser, enter [http://localhost:3000](http://localhost:3000) into the address bar and press enter. Your browser should show the application running locally on your computer. 
 
-# Application Design
-
 ## Directory structure
 
 The top-level directory structure contains:
