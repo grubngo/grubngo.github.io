@@ -20,26 +20,26 @@ Grub 'n' Go also provides a filter page, available to those who can login to the
 
 
 # User Guide
-## Landing
+### Landing
 User will first see the landing page, giving them a quick sense of what GrubNGo is about. A map will also be displayed which gives the user a sense of where all the food options are located.
 
-## Vendors List
+### Vendors List
 The vendors list is the complete list of food establishments on UH Manoa. Here, users can also filter food choices to best suit their current cravings. 
 
 There are two types of users: Users and Vendors.
-### If User:
-## Register/Login
+#### If User:
+### Register/Login
 Users can either register if this is their first time and login if they have an existing account. Although a user can use the site regardless if they have an account or not, there are benefits for creating an account such as: liking favorite menu items and having a daily feed.
 To create an account, all the user must input is their email and create a password.
 
-## User Homepage
+### User Homepage
 Once the user logs in, they’ll be redirected to their homepage, which showcases their favorite locations and a feed displaying if their favorite dish is being served today.
 
-### If Vendor:
-## Register/Login
+#### If Vendor:
+### Register/Login
 Along with their email and password, vendors are required to input more information. Vendors will also input their name, location (on campus), hours, food category/tags, and with the option to write down their personal site.
 
-## Vendor Homepage
+### Vendor Homepage
 Once the vendor logs in, they’ll be redirected to their homepage. It’ll display a list of their menu items categorized by food/drinks/other with the option to edit. Editing will allow them to add/remove an item from their list and mark an option sold out.
 
 
