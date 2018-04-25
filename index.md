@@ -20,26 +20,26 @@ Grub 'n' Go also provides a filter page, available to those who can login to the
 
 
 # User Guide
-### Landing
+  Landing
 User will first see the landing page, giving them a quick sense of what GrubNGo is about. A map will also be displayed which gives the user a sense of where all the food options are located.
 
-### Vendors List
+  Vendors List
 The vendors list is the complete list of food establishments on UH Manoa. Here, users can also filter food choices to best suit their current cravings. 
 
 There are two types of users: Users and Vendors.
-#### If User:
-### Register/Login
+  If User:
+ Register/Login
 Users can either register if this is their first time and login if they have an existing account. Although a user can use the site regardless if they have an account or not, there are benefits for creating an account such as: liking favorite menu items and having a daily feed.
 To create an account, all the user must input is their email and create a password.
 
-### User Homepage
+  User Homepage
 Once the user logs in, they’ll be redirected to their homepage, which showcases their favorite locations and a feed displaying if their favorite dish is being served today.
 
-#### If Vendor:
-### Register/Login
+ If Vendor:
+  Register/Login
 Along with their email and password, vendors are required to input more information. Vendors will also input their name, location (on campus), hours, food category/tags, and with the option to write down their personal site.
 
-### Vendor Homepage
+  Vendor Homepage
 Once the vendor logs in, they’ll be redirected to their homepage. It’ll display a list of their menu items categorized by food/drinks/other with the option to edit. Editing will allow them to add/remove an item from their list and mark an option sold out.
 
 
@@ -63,7 +63,7 @@ $ meteor npm run start
 
 Open your internet browser, enter [http://localhost:3000](http://localhost:3000) into the address bar and press enter. Your browser should show the application running locally on your computer. 
 
-## Directory structure
+  Directory structure
 
 The top-level directory structure contains:
 
@@ -113,7 +113,7 @@ server/
 ```
 
 
-## Import conventions
+  Import conventions
 
 This system adheres to the Meteor 1.4 guideline of putting all application code in the imports/ directory, and using client/main.js and server/main.js to import the code appropriate for the client and server in an appropriate order.
 
@@ -152,7 +152,7 @@ We use this approach to make it more simple to understand what code is loaded an
 
 Note that this two-level import structure ensures that all code and templates are loaded, but does not ensure that the symbols needed in a given file are accessible.  So, for example, a symbol bound to a collection still needs to be imported into any file that references it.
 
-## Naming conventions
+  Naming conventions
 
 This system adopts the following naming conventions:
 
@@ -162,12 +162,12 @@ This system adopts the following naming conventions:
   * Templates representing pages are capitalized, with words separated by underscores. Example: Directory_Page. The files for this template are lower case, with hyphens rather than underscore. Example: directory-page.html, directory-page.js.
   * Routes to pages are named the same as their corresponding page. Example: Directory_Page.
 
-## Data model 
+  Data model 
 
 The Grub n' Go data model is implemented by two Javascript classes: MunchieCollection, ProfileCollection, ReviewCollection, TasteCollection, and VendorCollection. All of these classes encapsulate a MongoDB collection with the same name and export a single variable that provides access to that collection.
 
 
-## CSS
+  CSS
 
 The application uses the [Semantic UI](http://semantic-ui.com/) CSS framework. To learn more about the Semantic UI theme integration with Meteor, see [Semantic-UI-Meteor](https://github.com/Semantic-Org/Semantic-UI-Meteor).
 
@@ -175,7 +175,7 @@ The Semantic UI theme files are located in app/client/lib/semantic-ui directory.
 
 Note that the user pages contain a menu fixed to the top of the page, and thus the body element needs to have padding attached to it.  However, the landing page does not have a menu, and thus no padding should be attached to the body element on that page. To accomplish this, the router uses "triggers" to add an remove the appropriate classes from the body element when a page is visited and then left by the user.
 
-## Authentication
+  Authentication
 
 For authentication, the application uses the University of Hawaii CAS test server, and follows the approach shown in [meteor-example-uh-cas](http://ics-software-engineering.github.io/meteor-example-uh-cas/).
 
@@ -183,7 +183,7 @@ When the application is run, the CAS configuration information must be present i
 
 Anyone with a UH account can login and use Grub n' Go to create a profile.  A profile document is created for them if none already exists for that username.
 
-## Authorization
+  Authorization
 
 The landing is public; anyone can access this page.
 
@@ -193,7 +193,7 @@ To prevent people from accessing pages they are not authorized to visit, templat
 
 The application implements template-based authorization using an If_Authorized template, defined in If_Authorized.html and If_Authorized.js.
 
-## Configuration
+  Configuration
 
 The config directory is intended to hold settings files.  The repository contains one file:
 config/settings.development.json
@@ -202,9 +202,9 @@ The .gitignore file prevents a file named settings.production.json from being co
 
 Grub n' Go checks on startup to see if it has an empty database in initialize-database.js, and if so, loads the file specified in the configuration file, such as settings.development.json.  For development purposes, a sample initialization for this database is in initial-collection-data.json.
 
-## Quality Assurance
+  Quality Assurance
 
-### ESLint
+   ESLint
 
 Grub n' Go includes a .eslintrc file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
 
@@ -218,66 +218,66 @@ It's significantly easier to do development with ESLint integrated directly into
 
 # Development History
 
-## Milestone 1: Mockup development
+  Milestone 1: Mockup development
 
 This milestone started on April 2nd, 2018 and ended on April 12th, 2018.
 
 The goal of Milestone 1 was to create the functional requirements for our application which includes: having our system deployed to Galaxy, have a landing page (with a login) and mockups of at least four other pages. Additionally there are software engineering requirements that includes using GitHub issues and a GitHub project called "M1" and practicing Issue Driven Project Management strategies. Lastly, there are home page requirements for our project's github home page. This includes (but not limited to): a link to the Github organization of this project, up-to-date screenshots, link to the running deployment of our system on Galaxy, link to the M1 project page and a link to the M2 project page.
 
 Mockups for the following four pages were developed and then implemented during M1:
-### 1. Landing
+   1. Landing
 
-#### Mockup  
+    Mockup  
 ![](images/Landing.PNG)  
 
-#### Actual Landing  
+    Actual Landing  
 ![](images/landing.png)
 
-### 2. Admin Homepage
+   2. Admin Homepage
 
-#### Mockup  
+    Mockup  
 ![](images/AdminHP.PNG)  
 
-#### Actual Admin Homepage
+    Actual Admin Homepage
 
-### 3. Vendor Homepage
+   3. Vendor Homepage
 
-#### Mockup  
+    Mockup  
 ![](images/VendorHP.PNG)  
 
-#### Actual Vendor Homepage
+    Actual Vendor Homepage
 
-### 4. User Homepage
+   4. User Homepage
 
-#### Mockup  
+    Mockup  
 ![](images/UserHomePage.PNG)  
 
-#### Actual User Homepage
+    Actual User Homepage
 
-### 5. Signup
+   5. Signup
 
-#### Mockup
+    Mockup
 ![](images/Signup.PNG)  
 
-#### Actual User Login
+    Actual User Login
 
-### 6. LogIn
+   6. LogIn
 
-#### Mockup
+    Mockup
 ![](images/Login.PNG)  
 
-#### Actual User Login
+    Actual User Login
 
-### 7. Map
+   7. Map
 
-#### Mockup
+    Mockup
 ![](images/Map.PNG)  
 
-#### Actual User Login
+    Actual User Login
 
 
 
-Milestone 1 was implemented as [Grub 'n' Go GitHub Milestone M1](https://github.com/grubngo/GrubNGo/projects/1):
+##Milestone 1 was implemented as [Grub 'n' Go GitHub Milestone M1](https://github.com/grubngo/GrubNGo/projects/1):
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
