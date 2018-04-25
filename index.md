@@ -277,12 +277,12 @@ Mockups for the following four pages were developed and then implemented during 
 
 
 
-##Milestone 1 was implemented as [Grub 'n' Go GitHub Milestone M1](https://github.com/grubngo/GrubNGo/projects/1):
+  Milestone 1 was implemented as [Grub 'n' Go GitHub Milestone M1](https://github.com/grubngo/GrubNGo/projects/1):
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
 
-## Milestone 2: Data model development 
+  Milestone 2: Data model development 
 
 This milestone started on April 13th, 2018 and ended on April 24th, 2018.
 
