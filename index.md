@@ -74,45 +74,6 @@ config/     # holds configuration files, such as settings.development.json
 ```
 The separation of the actual meteor app and the config files, .json, and .ignore allow for better project management and avoid excess clutter. Consolidation of all files in a single directory is not advised for directory readability.
 
-The app/ directory has this top-level structure:
-
-```
-client/
-  lib/           # holds Semantic UI files.
-  head.html      # the <head>
-  main.js        # import all the client-side html and js files.
-
-imports/
-  api/           # Define collection processing code (client + server side)
-    base/
-    munchie/     # Collection for food items, used for favorites and vendor menus.
-    profile/     # Profiles for users
-    taste/       # associated tags with food items/vendors
-    vendor/      # Vendors of UH,
-  startup/       # Define code to run when system starts up (client-only, server-only)
-    client/        
-    server/        
-  ui/
-    components/  # templates of common components/forms that used for web development.
-    layouts/     # Layouts contain the templates that act as a base for pages that share
-                   common component templates.
-    pages/       # Pages are navigated to by FlowRouter routes.
-    stylesheets/ # CSS customizations, if any.
-
-node_modules/    # managed by Meteor
-
-private/
-  database/      # Holds the required JSON file to initialize the database. If not present,
-                   app holds no functionality on build other than profile creation.
-
-public/          
-  images/        # holds all the assets for profiles, munchies, vendors, and site graphics.
-
-server/
-   main.js       # import all the server-side js files.
-```
-
-
   Import conventions
 
 This system adheres to the Meteor 1.4 guideline of putting all application code in the imports/ directory, and using client/main.js and server/main.js to import the code appropriate for the client and server in an appropriate order.
@@ -161,11 +122,6 @@ This system adopts the following naming conventions:
   * Other Javascript variables are camel-case. Example: collectionList.
   * Templates representing pages are capitalized, with words separated by underscores. Example: Directory_Page. The files for this template are lower case, with hyphens rather than underscore. Example: directory-page.html, directory-page.js.
   * Routes to pages are named the same as their corresponding page. Example: Directory_Page.
-
-  Data model 
-
-The Grub n' Go data model is implemented by two Javascript classes: MunchieCollection, ProfileCollection, ReviewCollection, TasteCollection, and VendorCollection. All of these classes encapsulate a MongoDB collection with the same name and export a single variable that provides access to that collection.
-
 
   CSS
 
