@@ -250,7 +250,16 @@ Additionally, we had to find at least 5 UH community members to test our applica
 Milestone 2 consisted of two issues, and progress was managed via the [Grub 'n' Go GitHub Project M2](https://github.com/grubngo/GrubNGo/projects/2):
 
 
-Each issue was implemented in its own branch, and merged into master when completed:
+Each issue was implemented in its own branch, and merged into master when completed.
+
+   Milestone 3: Final Stretch
+   
+This milestone started on April 25th and ended on May 4th, 2018.
+
+The primary purpose of M3 was to significantly improve from M2 and use the constructive feedback from those 5 other UH Community Members to propel our project.
+
+The progress of M3 was managed via [Grub 'n' Go GitHub Project M3]
+(https://github.com/grubngo/GrubNGo/projects/3):
 
 
 # Deployment
