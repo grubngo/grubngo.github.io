@@ -258,8 +258,7 @@ This milestone started on April 25th and ended on May 4th, 2018.
 
 The primary purpose of M3 was to significantly improve from M2 and use the constructive feedback from those 5 other UH Community Members to propel our project.
 
-The progress of M3 was managed via [Grub 'n' Go GitHub Project M3]
-(https://github.com/grubngo/GrubNGo/projects/3):
+The progress of M3 was managed via [Grub 'n' Go GitHub Milestone M3](https://github.com/grubngo/GrubNGo/projects/3):
 
 #Initial User Study
 For our site we reached out to some friends to test the site. 
