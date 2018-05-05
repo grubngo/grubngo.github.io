@@ -261,6 +261,9 @@ The primary purpose of M3 was to significantly improve from M2 and use the const
 The progress of M3 was managed via [Grub 'n' Go GitHub Project M3]
 (https://github.com/grubngo/GrubNGo/projects/3):
 
+#Initial User Study
+For our site we reached out to some friends to test the site. 
+
 
 # Deployment
 Final look at [Grub N Go](http://grubngo.meteorapp.com/) page
