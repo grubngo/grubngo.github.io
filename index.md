@@ -133,8 +133,6 @@ Note that the user pages contain a menu fixed to the top of the page, and thus t
 
   Authentication
 
-For authentication, the application uses the University of Hawaii CAS test server, and follows the approach shown in [meteor-example-uh-cas](http://ics-software-engineering.github.io/meteor-example-uh-cas/).
-
 When the application is run, the CAS configuration information must be present in a configuration file such as config/settings.development.json.
 
 Anyone with a UH account can login and use Grub n' Go to create a profile.  A profile document is created for them if none already exists for that username.
